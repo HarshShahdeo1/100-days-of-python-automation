@@ -8,4 +8,4 @@ This repository documents my journey mastering Python logic, specifically tailor
 | Day | Topic | Key DevOps Logic | Code |
 | :--- | :--- | :--- | :--- |
 | Day 1 | If-Else & Conditionals | Budget Monitoring & Decision Logic | [Basics](basics/day1_if_else.py) / [Challenges](basics/section_11_challenges.py) |
-| Day 1 | *Starting Tomorrow* | *Logic for Automation* | [Link](#) |
+| Day 2 | While Loops & Control Flow | System Polling & Data Validation | [View Logic](basics/day_2_while_loop.py) |
