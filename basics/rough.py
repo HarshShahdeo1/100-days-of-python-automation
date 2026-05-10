@@ -16,12 +16,27 @@
 # for i in range(1,n+1):
 #     if n%i == 0:
 #         print(i)
-n = int(input("Enter a no: "))
-count = 0
-for i in range(1,n+1):
-    if n%i==0:
-        count=count+1
-if count==2:
-        print("Prime no")
-else:
-        print("Not a Prime")
+# n = int(input("Enter a no: "))
+# count = 0
+# for i in range(1,n+1):
+#     if n%i==0:
+#         count=count+1
+# if count==2:
+#         print("Prime no")
+# else:
+#         print("Not a Prime")
+# row = int(input("Enter the value of row: "))
+# col = int(input("Enter the value of col: "))
+# for i in range(1,row):
+#     for j in range(1,col):
+#         print(i,",",j, end="  ")
+#     print(" ")
+for n in range(1,101):
+        count = 0
+        for i in range(1,n+1):
+            if n%i==0:
+                count = count+1
+        if count == 2:
+             print(n)
+    
+    
